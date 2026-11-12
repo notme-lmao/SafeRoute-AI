@@ -26,16 +26,10 @@ routes during emergency situations.
 - Daksh Jaiswal
 - Neeti Patel
 - Jash Patel
+- Aryan
 
 ## How to Run
 1. Clone this repository.
 2. Open the project in Android Studio.
 3. Add the required API keys.
 4. Build and run the application.
-
-## Screenshots
-
-Add screenshots of the application here.
-
-## Demo
-Add your demo video link here.
